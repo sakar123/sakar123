@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning python and ML
 
-- 🥅 I’m looking to work on robotics projects
+- 🥅 I’m looking to work on software engineering projects 
 
 - ⚡ Fun fact: I love the beach, I want to live in an insland for some time
 
